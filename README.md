@@ -11,7 +11,7 @@ implemented functions:
     - vcg nearest (QP)
     - proxy (QP)
     - proportional (limited precision binary search over LP)
-- printout functions (bids, winner determination, outcomes)
+- printout functions bids, winner determination, outcomes
 
 ## Initialization:
 There's an executable (compiled main) in the repository. To compile yourself,
